@@ -1,8 +1,0 @@
----
-layout: home
-author_profile: true
-permalink: /about/
-title: "About"
----
-
-About me
